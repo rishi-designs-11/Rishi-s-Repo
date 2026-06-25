@@ -1,0 +1,10 @@
+.DS_Store
+.next/
+node_modules/
+out/
+.npm-cache/
+igl-potable-spirits-static/
+igl-potable-spirits-static.zip
+
+# Local env files
+.env*.local
