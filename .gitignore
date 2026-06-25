@@ -5,6 +5,7 @@ out/
 .npm-cache/
 igl-potable-spirits-static/
 igl-potable-spirits-static.zip
+igl-potable-spirits-wordpress-static.zip
 
 # Local env files
 .env*.local
